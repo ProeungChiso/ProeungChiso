@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS, SpringBoot**
 
-- 💬 Ask me about **ReactJS, NextJS, SpringBoot, BASIC WEB, DATABASES**
+- 💬 Ask me about **BASIC WEB, JS, ReactJS, NextJS, JAVA, SpringBoot, DATABASES**
 
 - 📫 How to reach me **mrr.chiso@gmail.com**
 
