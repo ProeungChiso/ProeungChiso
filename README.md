@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proeungchiso&label=Profile%20views&color=0e75b6&style=flat" alt="proeungchiso" /> </p>
 
-- 🌱 I’m currently learning **.Net Vue.js**
+- 🌱 I’m currently learning **.Net, Vue.js**
 
 - 💬 Ask me about **BASIC WEB, JS, ReactJS, NextJS, JAVA, SpringBoot, DATABASES**
 
