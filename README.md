@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proeungchiso&label=Profile%20views&color=0e75b6&style=flat" alt="proeungchiso" /> </p>
 
-- 🌱 I’m currently learning **.Net, Vue.js**
+- 🌱 I’m currently learning **UI Design System Pattern**
 
-- 💬 Ask me about **BASIC WEB, JS, ReactJS, NextJS, JAVA, SpringBoot, DATABASES**
+- 💬 Ask me about **BASIC WEB, JS, ReactJS, NextJS, VueJS, NuxtJS, JAVA, SpringBoot, DATABASES**
 
 - 📫 How to reach me **mrr.chiso@gmail.com**
 
